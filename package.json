@@ -5,6 +5,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
+    "export": "next export -o _static",
     "type-check": "tsc"
   },
   "dependencies": {
